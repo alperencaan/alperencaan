@@ -2,7 +2,7 @@
   
 # 👾 Alperen Can
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Game+Developer+%F0%9F%8E%AE;Unity+3D+Specialist+%F0%9F%9A%80;Backend+%26+Frontend+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
