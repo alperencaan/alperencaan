@@ -72,41 +72,6 @@ const alperen = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alperencaan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alperencaan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=alperencaan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=alperencaan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/alperencaan)
-
-</div>
-
----
-
-## 🎮 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alperencaan&repo=your-game-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1)](https://github.com/alperencaan/your-game-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alperencaan&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1)](https://github.com/alperencaan/another-project)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -115,26 +80,6 @@ const alperen = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alperencan1)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teestamentt16)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1071alperenn)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/alperencaan/alperencaan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
