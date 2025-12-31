@@ -89,6 +89,5 @@ const alperen = {
   
 ###  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-** From [alperencaan](https://github.com/alperencaan) with **
 
 </div>
