@@ -72,7 +72,7 @@ const alperen = {
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -87,8 +87,8 @@ const alperen = {
 
 <div align="center">
   
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+###  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**⭐ From [alperencaan](https://github.com/alperencaan) with ❤️**
+** From [alperencaan](https://github.com/alperencaan) with **
 
 </div>
